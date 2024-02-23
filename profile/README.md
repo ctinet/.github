@@ -1,4 +1,4 @@
-###  TaxiiNet - OASIS STIX/TAXII 2.1 compliant ASP Net Core Server
+###  TaxiiNet - OASIS STIX/TAXII 2.1 compliant Http Server
 
 #### What is TAXII?
 Trusted Automated Exchange of Intelligence Information (TAXII™) is an _application layer protocol_ for the communication of cyber threat information in a simple and scalable manner.
